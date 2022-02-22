@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yuki1115
-- 👀 I’m interested in ...
+- 👀 I’m interested in Java
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me zhiyuan6296@163.com
+- 📫 zhiyuan6296@163.com
 -  
 <!---
 Yuki1115/Yuki1115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
